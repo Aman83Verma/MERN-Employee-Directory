@@ -443,4 +443,4 @@ This project represents my fourth Express.js class project, focusing on integrat
 
 ---
 
-⭐ If you find this project useful, feel free to explore the code and follow my full-stack development journey.
+⭐ If you find this project useful, feel free to explore the code and follow my full-stack development journey and guide me to grow.
