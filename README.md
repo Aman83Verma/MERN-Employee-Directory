@@ -151,6 +151,8 @@ Install dependencies:
 
 ```bash
 npm install
+or
+npm i
 ```
 
 Create a `.env` file inside `backend/`:
@@ -166,7 +168,7 @@ Replace the connection string with your actual MongoDB Atlas URI.
 
 ### 4. Start the Backend Server
 
-If your backend `package.json` includes the corresponding scripts, run:
+If your backend `package.json` includes the corresponding scripts, run and also if you install nodemon package:
 
 ```bash
 npm run dev
